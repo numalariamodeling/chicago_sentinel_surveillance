@@ -1,1 +1,5 @@
 data/*
+!data/Chicago_ZIP_codes.txt
+!data/covid_regions.dbf
+.ipynb_checkpoints/
+__pycache__/
