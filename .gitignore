@@ -2,6 +2,7 @@ data/*
 !data/Chicago_ZIP_codes.txt
 !data/covid_regions.dbf
 *.png
+!time_to_indicator.png
 *.pdf
 *.csv
 .ipynb_checkpoints/
