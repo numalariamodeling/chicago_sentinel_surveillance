@@ -10,6 +10,7 @@ We investigated whether sentinel surveillance of recently symptomatic individual
 * Hospital-based indicators (e.g. emergency department visits, hospitalizations) lag infection by several weeks<sup>1,2,4,5</sup>
 * Symptom onset occurs relatively soon after infection and symptomatic individuals are far more likely to receive a diagnostic test<sup>1,2,3</sup>
 
+### References
 1. [Evaluating Data Types: A Guide for Decision Makers using Data to Understand the Extent and Spread of COVID-19. 2020, The National Academies Press. 15.](https://nap.nationalacademies.org/catalog/25826/evaluating-data-types-a-guide-for-decision-makers-using-data)
 2. [Lauer, S.A., et al., Annals of internal medicine, 2020. 172(9): p. 577-582.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081172/)
 3. [Brauner, J.M., et al., Science, 2021. 371(6531): p. eabd9338](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7877495/)
