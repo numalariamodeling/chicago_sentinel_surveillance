@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Tracking changes in SARS-CoV-2 transmission with a
+  novel outpatient sentinel surveillance system in
+  Chicago, USA
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0000-0002-6058-5886'
+    given-names: Reese
+    family-names: Richardson
+  - given-names: Emile
+    family-names: Jorgensen
+  - given-names: Philip
+    family-names: Arevalo
+    orcid: 'https://orcid.org/0000-0003-1237-2314'
+  - given-names: Tobias
+    family-names: Holden
+    orcid: 'https://orcid.org/0000-0002-0793-9585'
+  - given-names: Katelyn
+    orcid: 'https://orcid.org/0000-0002-9369-6371'
+    family-names: Gostic
+  - given-names: Massimo
+    family-names: Pacilli
+  - given-names: Isaac
+    family-names: Ghinai
+    orcid: 'https://orcid.org/0000-0003-1322-1331'
+  - given-names: Shannon
+    family-names: Lightner
+    orcid: 'https://orcid.org/0000-0002-9414-1466'
+  - given-names: Sarah
+    family-names: Cobey
+    orcid: 'https://orcid.org/0000-0001-5298-8979'
+  - given-names: Jaline
+    family-names: Gerardin
+    orcid: 'https://orcid.org/0000-0001-8071-9928'
