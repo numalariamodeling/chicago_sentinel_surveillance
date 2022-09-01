@@ -1,5 +1,7 @@
 # Tracking changes in SARS-CoV-2 transmission with a novel outpatient sentinel surveillance system in Chicago, USA
 
+[![DOI](https://zenodo.org/badge/467318671.svg)](https://zenodo.org/badge/latestdoi/467318671)
+
 We investigated whether sentinel surveillance of recently symptomatic individuals receiving an outpatient diagnostic test for SARS-CoV-2 infection could accurately assess the instantaneous reproductive number R(t) and provide early warning of changes in transmission.
 
 ![Timing of indicators relative to infection](https://github.com/numalariamodeling/chicago_sentinel_surveillance/blob/main/time_to_indicator.png)
