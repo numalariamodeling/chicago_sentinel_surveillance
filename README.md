@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/467318671.svg)](https://zenodo.org/badge/latestdoi/467318671)
 
-This is the repository associated with the paper **"[Tracking changes in SARS-CoV-2 transmission with a novel outpatient sentinel surveillance system in Chicago, USA.](https://www.nature.com/articles/s41467-022-33317-6)**
+This is the repository associated with the paper **"[Tracking changes in SARS-CoV-2 transmission with a novel outpatient sentinel surveillance system in Chicago, USA" Nature Communications (2022).](https://www.nature.com/articles/s41467-022-33317-6)**
 
 We investigated whether sentinel surveillance of recently symptomatic individuals receiving an outpatient diagnostic test for SARS-CoV-2 infection could accurately assess the instantaneous reproductive number R(t) and provide early warning of changes in transmission.
 
